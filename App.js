@@ -13,8 +13,13 @@ import data from "./QuizData";
 import { NavigationContainer } from "@react-navigation/native";
 import { createNativeStackNavigator } from "@react-navigation/native-stack";
 import { COLORS } from "./Theme";
-import { Colors } from "react-native/Libraries/NewAppScreen";
 
+export const addFive = (val) => {
+  return val + 5;
+};
+export const timesTwo = (val) => {
+  return val * 2;
+};
 export default function App() {
   const allQuestions = data;
   const [currentQuestionIndex, setCurrentQuestionIndex] = useState(0);
@@ -287,7 +292,7 @@ export default function App() {
             height: 400,
             resizeMode: "contain",
           }}
-          source={require("./assets/react_quiz_app_template.jpeg")}
+          source={require("./assets/react_quiz_app_template.png")}
         />
         <View
           style={{
@@ -452,6 +457,8 @@ export default function App() {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
+    borderColor: "EDEFEE",
+
     backgroundColor: "#fff",
     alignItems: "center",
     justifyContent: "center",

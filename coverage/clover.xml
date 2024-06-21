@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1717173884405" clover="3.2.0">
+  <project timestamp="1717173884405" name="All files">
+    <metrics statements="61" coveredstatements="6" conditionals="12" coveredconditionals="0" methods="17" coveredmethods="2" elements="90" coveredelements="8" complexity="0" loc="61" ncloc="61" packages="1" files="3" classes="3"/>
+    <file name="App.js" path="/Users/mba132582/Documents/Projects/SampleApps/RNQuiz/RNQuiz/App.js">
+      <metrics statements="60" coveredstatements="5" conditionals="12" coveredconditionals="0" methods="17" coveredmethods="2"/>
+      <line num="17" count="2" type="stmt"/>
+      <line num="18" count="1" type="stmt"/>
+      <line num="20" count="2" type="stmt"/>
+      <line num="21" count="1" type="stmt"/>
+      <line num="24" count="0" type="stmt"/>
+      <line num="25" count="0" type="stmt"/>
+      <line num="26" count="0" type="stmt"/>
+      <line num="27" count="0" type="stmt"/>
+      <line num="28" count="0" type="stmt"/>
+      <line num="29" count="0" type="stmt"/>
+      <line num="31" count="0" type="stmt"/>
+      <line num="32" count="0" type="stmt"/>
+      <line num="34" count="0" type="stmt"/>
+      <line num="39" count="0" type="stmt"/>
+      <line num="41" count="0" type="stmt"/>
+      <line num="42" count="0" type="cond" truecount="0" falsecount="2"/>
+      <line num="43" count="0" type="stmt"/>
+      <line num="44" count="0" type="stmt"/>
+      <line num="45" count="0" type="stmt"/>
+      <line num="46" count="0" type="stmt"/>
+      <line num="47" count="0" type="cond" truecount="0" falsecount="2"/>
+      <line num="48" count="0" type="stmt"/>
+      <line num="51" count="0" type="stmt"/>
+      <line num="55" count="0" type="stmt"/>
+      <line num="56" count="0" type="cond" truecount="0" falsecount="2"/>
+      <line num="57" count="0" type="stmt"/>
+      <line num="59" count="0" type="stmt"/>
+      <line num="60" count="0" type="stmt"/>
+      <line num="61" count="0" type="stmt"/>
+      <line num="62" count="0" type="stmt"/>
+      <line num="64" count="0" type="stmt"/>
+      <line num="85" count="0" type="stmt"/>
+      <line num="86" count="0" type="stmt"/>
+      <line num="87" count="0" type="stmt"/>
+      <line num="88" count="0" type="stmt"/>
+      <line num="89" count="0" type="stmt"/>
+      <line num="90" count="0" type="stmt"/>
+      <line num="93" count="0" type="stmt"/>
+      <line num="99" count="0" type="stmt"/>
+      <line num="112" count="0" type="stmt"/>
+      <line num="119" count="0" type="stmt"/>
+      <line num="120" count="0" type="stmt"/>
+      <line num="158" count="0" type="stmt"/>
+      <line num="159" count="0" type="stmt"/>
+      <line num="185" count="0" type="stmt"/>
+      <line num="186" count="0" type="stmt"/>
+      <line num="189" count="0" type="stmt"/>
+      <line num="204" count="0" type="stmt"/>
+      <line num="242" count="0" type="stmt"/>
+      <line num="243" count="0" type="stmt"/>
+      <line num="279" count="0" type="stmt"/>
+      <line num="280" count="0" type="stmt"/>
+      <line num="319" count="0" type="stmt"/>
+      <line num="320" count="0" type="stmt"/>
+      <line num="343" count="0" type="stmt"/>
+      <line num="344" count="0" type="stmt"/>
+      <line num="395" count="0" type="stmt"/>
+      <line num="396" count="0" type="stmt"/>
+      <line num="421" count="0" type="stmt"/>
+      <line num="457" count="2" type="stmt"/>
+    </file>
+    <file name="QuizData.js" path="/Users/mba132582/Documents/Projects/SampleApps/RNQuiz/RNQuiz/QuizData.js">
+      <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+    </file>
+    <file name="Theme.js" path="/Users/mba132582/Documents/Projects/SampleApps/RNQuiz/RNQuiz/Theme.js">
+      <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <line num="3" count="2" type="stmt"/>
+    </file>
+  </project>
+</coverage>
